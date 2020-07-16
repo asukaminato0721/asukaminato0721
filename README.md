@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/wuyudi/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=wuyudi.wuyudi)](https://github.com/wuyudi/)
+[![GitHub](https://img.shields.io/github/followers/wuyudi.svg?lable=GitHub&style=social)](https://github.com/wuyudi/)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=wuyudi)](https://github.com/wuyudi/)
+
+#### Links 📫
+
+* [My Homepage](https://wuyudi.github.io/blog/)
