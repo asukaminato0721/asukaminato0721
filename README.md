@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=wuyudi.wuyudi)](https://github.com/wuyudi/)
 [![GitHub](https://img.shields.io/github/followers/wuyudi.svg?lable=GitHub&style=social)](https://github.com/wuyudi/)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=wuyudi)](https://github.com/wuyudi/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=wuyudi&show_icons=true)](https://github.com/wuyudi/)
 
 #### Links 📫
 
 * [My Homepage](https://wuyudi.github.io/blog/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML)](https://github.com/wuyudi/github-readme-stats)
