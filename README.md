@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wuyudi&show_icons=true)](https://github.com/wuyudi/)
 
+![sourcerer.io.antononcube](https://github.com/wuyudi/wuyudi/blob/master/img/stat.jpg)
+
 #### Links 📫
 
 * [My Homepage](https://wuyudi.github.io/blog/)
