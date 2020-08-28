@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 * [My Homepage](https://wuyudi.github.io/blog/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML)](https://github.com/wuyudi/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wuyudi/count.svg" />
+</p>
