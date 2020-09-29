@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wuyudi&show_icons=true)](https://github.com/wuyudi/)
 
-![sourcerer.io.antononcube](https://github.com/wuyudi/wuyudi/blob/master/img/stat.jpg)
-
 #### Links 📫
 
 * [My Homepage](https://wuyudi.github.io/blog/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML)](https://github.com/wuyudi/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wuyudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> 
   Visitor count<br>
