@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about GeoGebra
 
+🌟 **My Skills**  
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/wuyudi/)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=wuyudi.wuyudi)](https://github.com/wuyudi/)
 [![GitHub](https://img.shields.io/github/followers/wuyudi.svg?lable=GitHub&style=social)](https://github.com/wuyudi/)
@@ -36,4 +39,5 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/wuyudi/count.svg" />
 </p>
 
-![](https://wakatime.com/share/@8641cd04-e007-4ccb-812a-c126e8a0cf17/eb4d67e9-be09-495c-9365-71b252123091.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
