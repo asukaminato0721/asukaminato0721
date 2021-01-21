@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 * [My Homepage](https://wuyudi.github.io/blog/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML)](https://github.com/wuyudi/github-readme-stats)  ![](https://aster-readme.vercel.app/api/top-langs/?username=wuyudi&exclude_lang=html&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML,jupyter%20notebook&layout=compact)](https://github.com/wuyudi/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wuyudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
