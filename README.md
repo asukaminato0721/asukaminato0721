@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
@@ -15,9 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning JavaScript
+
 - 💬 Ask me about GeoGebra
 
 🌟 **My Skills**  
+![](https://img.shields.io/badge/-Svelte-3e74a2?style=flat-square&logo=Svelte&logoColor=fff)
+![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-3e74a2?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Mathematica-3e74a2?style=flat-square&logo=Wolfram&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-3e74a2?style=flat-square&logo=C%2B%2B&logoColor=fff)
