@@ -52,19 +52,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 mins             █████████████████░░░░░░░░   71.32% 
-Markdown                 6 mins              ███████░░░░░░░░░░░░░░░░░░   28.68% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cs61a-2021               11 mins             ████████████░░░░░░░░░░░░░   50.92% 
-Unknown Project          11 mins             ████████████░░░░░░░░░░░░░   49.08%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +78,5 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2021
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
