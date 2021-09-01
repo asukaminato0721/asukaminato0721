@@ -4,22 +4,24 @@
 **wuyudi/wuyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
+- 🌱 I am currently working as an intern at ByteDance
+<!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
+-->
+- 📫 How to reach me: wuyudi119@163.com
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌱 I’m currently learning JavaScript
-
 - 💬 Ask me about GeoGebra
+
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Svelte-3e74a2?style=flat-square&logo=Svelte&logoColor=fff)
+![](https://img.shields.io/badge/-Ubuntu-3e74a2?style=flat-square&logo=Ubuntu&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-3e74a2?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
@@ -44,39 +46,3 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wuyudi/count.svg" />
 </p>
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   17 repos            ████████░░░░░░░░░░░░░░░░░   34.69% 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-Mathematica              4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
-
-```
-
-
-
- Last Updated on 01/09/2021
-<!--END_SECTION:waka-->
