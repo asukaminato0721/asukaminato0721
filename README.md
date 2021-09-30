@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I am currently working as an intern at ByteDance
+- 🌱 I am currently looking for job.
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
