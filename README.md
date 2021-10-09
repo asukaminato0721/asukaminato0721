@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 💬 Ask me about GeoGebra
-
+-->
 
 🌟 **My Skills**  
+![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)
+![](https://img.shields.io/badge/-React-3e74a2?style=flat-square&logo=React&logoColor=fff)
+![](https://img.shields.io/badge/-CSS3-3e74a2?style=flat-square&logo=CSS3&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-3e74a2?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Svelte-3e74a2?style=flat-square&logo=Svelte&logoColor=fff)
 ![](https://img.shields.io/badge/-Ubuntu-3e74a2?style=flat-square&logo=Ubuntu&logoColor=fff)
-![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)
-![](https://img.shields.io/badge/-JavaScript-3e74a2?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Mathematica-3e74a2?style=flat-square&logo=Wolfram&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-3e74a2?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-C-3e74a2?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-Rust-3e74a2?style=flat-square&logo=Rust&logoColor=fff)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/wuyudi/)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=wuyudi.wuyudi)](https://github.com/wuyudi/)
