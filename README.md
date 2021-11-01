@@ -4,9 +4,9 @@
 **wuyudi/wuyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🌱 I am currently looking for job.
-<!--
+
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/github/followers/wuyudi.svg?lable=GitHub&style=social)](https://github.com/wuyudi/)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wuyudi&show_icons=true)](https://github.com/wuyudi/)
-
+<!--
 #### Links 📫
 
 * [My Homepage](https://wuyudi.github.io/blog/)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML,jupyter%20notebook&layout=compact)](https://github.com/wuyudi/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wuyudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
