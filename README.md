@@ -19,13 +19,25 @@ Here are some ideas to get you started:
 -->
 
 🌟 **My Skills**  
+
+OS
+
+![](https://img.shields.io/badge/-ArchLinux-3e74a2?style=flat-square&logo=ArchLinux&logoColor=fff)
+![](https://img.shields.io/badge/-Kubuntu-3e74a2?style=flat-square&logo=Kubuntu&logoColor=fff)
+
+Editor
+
+![](https://img.shields.io/badge/-VisualStudioCode-3e74a2?style=flat-square&logo=VisualStudioCode&logoColor=fff)
+![](https://img.shields.io/badge/-Neovim-3e74a2?style=flat-square&logo=Neovim&logoColor=fff)
+![](https://img.shields.io/badge/-vim-3e74a2?style=flat-square&logo=vim&logoColor=fff)
+
+Language
+
 ![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-React-3e74a2?style=flat-square&logo=React&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS3-3e74a2?style=flat-square&logo=CSS3&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-3e74a2?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Svelte-3e74a2?style=flat-square&logo=Svelte&logoColor=fff)
-![](https://img.shields.io/badge/-Kubuntu-3e74a2?style=flat-square&logo=Kubuntu&logoColor=fff)
-![](https://img.shields.io/badge/-ArchLinux-3e74a2?style=flat-square&logo=ArchLinux&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Mathematica-3e74a2?style=flat-square&logo=Wolfram&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-3e74a2?style=flat-square&logo=C%2B%2B&logoColor=fff)
