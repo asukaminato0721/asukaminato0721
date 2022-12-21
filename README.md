@@ -55,13 +55,18 @@ Language
 * [My Homepage](https://wuyudi.github.io/blog/)
 -->
 
-Currently playing with https://editor.p5js.org/AsukaMinato/sketches (click into any work, click the "play" button at top left)
+Currently playing with https://editor.p5js.org/AsukaMinato/sketches
+|||||
+|-|-|-|-|
+| ![[image](https://editor.p5js.org/AsukaMinato/full/bH_LRJpdp)](https://user-images.githubusercontent.com/30024051/208925839-7ea8fa01-6b19-44c7-a277-f875bc9c18e9.png) | ![image](https://user-images.githubusercontent.com/30024051/208926845-8bd30945-aea6-48d5-9750-5e7cec318e1a.png) |  ![image](https://user-images.githubusercontent.com/30024051/208927651-28245c85-b092-461a-9976-f68d64c3c418.png) | ![image](https://user-images.githubusercontent.com/30024051/208927971-a3d9a1df-f100-46c8-82d2-2d5bba1cefba.png)  |
+|      https://editor.p5js.org/AsukaMinato/full/bH_LRJpdp                 |                      https://editor.p5js.org/AsukaMinato/full/EQl9Z4QG4            |  https://editor.p5js.org/AsukaMinato/full/vDg-xtCcF   |https://editor.p5js.org/AsukaMinato/full/WaGzOmWxc|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML,jupyter%20notebook&layout=compact)](https://github.com/wuyudi/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wuyudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML,jupyter%20notebook&layout=compact)](https://github.com/wuyudi/github-readme-stats) -->
 
-<p align="center"> 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=wuyudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wuyudi/count.svg" />
-</p>
+</p> -->
