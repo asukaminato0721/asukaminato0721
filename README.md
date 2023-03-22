@@ -17,20 +17,14 @@ Here are some ideas to get you started:
 
 🌟 **My Skills**  
 
-OS
-
-![](https://img.shields.io/badge/-ArchLinux-3e74a2?style=flat-square&logo=ArchLinux&logoColor=fff)
+OS ![](https://img.shields.io/badge/-ArchLinux-3e74a2?style=flat-square&logo=ArchLinux&logoColor=fff)
 ![](https://img.shields.io/badge/-Kubuntu-3e74a2?style=flat-square&logo=Kubuntu&logoColor=fff)
 
-Editor
-
-![](https://img.shields.io/badge/-VisualStudioCode-3e74a2?style=flat-square&logo=VisualStudioCode&logoColor=fff)
+Editor ![](https://img.shields.io/badge/-VisualStudioCode-3e74a2?style=flat-square&logo=VisualStudioCode&logoColor=fff)
 ![](https://img.shields.io/badge/-Neovim-3e74a2?style=flat-square&logo=Neovim&logoColor=fff)
 ![](https://img.shields.io/badge/-vim-3e74a2?style=flat-square&logo=vim&logoColor=fff)
 
-Language
-
-![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)
+Language ![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-React-3e74a2?style=flat-square&logo=React&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-3e74a2?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Svelte-3e74a2?style=flat-square&logo=Svelte&logoColor=fff)
@@ -70,3 +64,5 @@ Currently playing with https://editor.p5js.org/AsukaMinato/sketches
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wuyudi/count.svg" />
 </p> -->
+
+The aur package I maintained: https://aur.archlinux.org/packages?K=AsukaMinato&SeB=m&O=0&SB=v&SO=d
