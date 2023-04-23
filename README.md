@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+Some maybe useful projects:
+
+- [integral with steps, offline && fast && TeX Output](https://github.com/wuyudi/IntWithStepsOfTeXForm)
+  - online choice https://www.integral-calculator.com/
+  - wolfree alpha https://wolfreealpha.gitlab.io/
+- [GeoGebra manual](https://github.com/wuyudi/GGB2MMA)
+- [Sympy with examples](https://github.com/wuyudi/PyF1)
+- [GeoGebra function table](https://github.com/wuyudi/GGB2MMA)
+- [Auto generate srt offline with whisper.cpp](https://github.com/wuyudi/autosrt)
+  - online choice https://huggingface.co/spaces/sanchit-gandhi/whisper-jax
+
+<details>
+    <summary>I use, I PR</summary>
+    p5.js, p5.ts(maintainer), fish-shell, ggml, ctool, sympy...
+</details>
+
+
 <!--
 **wuyudi/wuyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +39,6 @@ OS ![](https://img.shields.io/badge/-ArchLinux-3e74a2?style=flat-square&logo=Arc
 
 Editor ![](https://img.shields.io/badge/-VisualStudioCode-3e74a2?style=flat-square&logo=VisualStudioCode&logoColor=fff)
 ![](https://img.shields.io/badge/-Neovim-3e74a2?style=flat-square&logo=Neovim&logoColor=fff)
-![](https://img.shields.io/badge/-vim-3e74a2?style=flat-square&logo=vim&logoColor=fff)
 
 Language ![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-React-3e74a2?style=flat-square&logo=React&logoColor=fff)
