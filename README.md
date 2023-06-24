@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 OS ![](https://img.shields.io/badge/-ArchLinux-3e74a2?style=flat-square&logo=ArchLinux&logoColor=fff)
 ![](https://img.shields.io/badge/-Kubuntu-3e74a2?style=flat-square&logo=Kubuntu&logoColor=fff)
+![](https://img.shields.io/badge/-Debian-3e74a2?style=flat-square&logo=Debian&logoColor=fff)
 
 Editor ![](https://img.shields.io/badge/-VisualStudioCode-3e74a2?style=flat-square&logo=VisualStudioCode&logoColor=fff)
 ![](https://img.shields.io/badge/-Neovim-3e74a2?style=flat-square&logo=Neovim&logoColor=fff)
