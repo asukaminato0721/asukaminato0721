@@ -2,13 +2,13 @@
 
 Some maybe useful projects:
 
-- [integral with steps, offline && fast && TeX Output](https://github.com/wuyudi/IntWithStepsOfTeXForm)
+- [integral with steps, offline && fast && TeX Output](https://github.com/asukaminato0721/IntWithStepsOfTeXForm)
   - online choice https://www.integral-calculator.com/
   - wolfree alpha https://wolfreealpha.gitlab.io/
-- [GeoGebra manual](https://github.com/wuyudi/GGB2MMA)
-- [Sympy with examples](https://github.com/wuyudi/PyF1)
-- [GeoGebra function table](https://github.com/wuyudi/GGB2MMA)
-- [Auto generate srt offline with whisper.cpp](https://github.com/wuyudi/autosrt)
+- [GeoGebra manual](https://github.com/asukaminato0721/GGB2MMA)
+- [Sympy with examples](https://github.com/asukaminato0721/PyF1)
+- [GeoGebra function table](https://github.com/asukaminato0721/GGB2MMA)
+- [Auto generate srt offline with whisper.cpp](https://github.com/asukaminato0721/autosrt)
   - online choice https://huggingface.co/spaces/sanchit-gandhi/whisper-jax
 
 <details>
@@ -18,8 +18,6 @@ Some maybe useful projects:
 
 
 <!--
-**wuyudi/wuyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🌱 I am currently looking for job.
@@ -52,36 +50,20 @@ Language ![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&l
 ![](https://img.shields.io/badge/-Rust-3e74a2?style=flat-square&logo=Rust&logoColor=fff)
 
 <!--![](https://img.shields.io/badge/-CSS3-3e74a2?style=flat-square&logo=CSS3&logoColor=fff)
-
-
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/wuyudi/)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=wuyudi.wuyudi)](https://github.com/wuyudi/)
-[![GitHub](https://img.shields.io/github/followers/wuyudi.svg?lable=GitHub&style=social)](https://github.com/wuyudi/)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=wuyudi&show_icons=true)](https://github.com/wuyudi/)
 <!--
-#### Links 📫
-
-* [My Homepage](https://wuyudi.github.io/blog/)
 -->
 
 Currently playing with https://editor.p5js.org/AsukaMinato/sketches
 ||||||||
 |-|-|-|-|-|-|-|
-![image](https://github.com/wuyudi/wuyudi/assets/30024051/ecca0ced-2f84-4a46-ad98-1db1e684cf0a)|![image](https://github.com/wuyudi/wuyudi/assets/30024051/e7e1af0f-8216-4fcc-96e9-ea81c21f10d1)|![image](https://github.com/wuyudi/wuyudi/assets/30024051/340b85c8-9a48-4c75-95cd-f32318d58dcb)|
+![image](https://github.com/asukaminato0721/asukaminato0721/assets/30024051/ecca0ced-2f84-4a46-ad98-1db1e684cf0a)|![image](https://github.com/asukaminato0721/asukaminato0721/assets/30024051/e7e1af0f-8216-4fcc-96e9-ea81c21f10d1)|![image](https://github.com/asukaminato0721/asukaminato0721/assets/30024051/340b85c8-9a48-4c75-95cd-f32318d58dcb)|
 |https://editor.p5js.org/AsukaMinato/full/u1A4W1dDi|https://editor.p5js.org/AsukaMinato/full/5VOWIkeNt|https://editor.p5js.org/AsukaMinato/full/hMPzl5SYW||||
 |![image](https://user-images.githubusercontent.com/30024051/227753060-d9db53e7-7516-4ca9-b96c-25c5abbf1309.png)| ![[image](https://editor.p5js.org/AsukaMinato/full/bH_LRJpdp)](https://user-images.githubusercontent.com/30024051/208925839-7ea8fa01-6b19-44c7-a277-f875bc9c18e9.png) | ![image](https://user-images.githubusercontent.com/30024051/208926845-8bd30945-aea6-48d5-9750-5e7cec318e1a.png) |  ![image](https://user-images.githubusercontent.com/30024051/208927651-28245c85-b092-461a-9976-f68d64c3c418.png) | ![image](https://user-images.githubusercontent.com/30024051/208927971-a3d9a1df-f100-46c8-82d2-2d5bba1cefba.png)|
 |https://editor.p5js.org/AsukaMinato/full/wqmOaXM7N|      https://editor.p5js.org/AsukaMinato/full/bH_LRJpdp                 |                      https://editor.p5js.org/AsukaMinato/full/EQl9Z4QG4            |  https://editor.p5js.org/AsukaMinato/full/vDg-xtCcF   |https://editor.p5js.org/AsukaMinato/full/WaGzOmWxc|
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyudi&hide=HTML,jupyter%20notebook&layout=compact)](https://github.com/wuyudi/github-readme-stats) -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=wuyudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 <!-- <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wuyudi/count.svg" />
+  <img src="https://profile-counter.glitch.me/asukaminato0721/count.svg" />
 </p> -->
 
 The aur package I maintained: https://aur.archlinux.org/packages?K=AsukaMinato&SeB=m&O=0&SB=v&SO=d
