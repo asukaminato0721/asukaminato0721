@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 Some maybe useful projects:
 
 - [integral with steps, offline && fast && TeX Output](https://github.com/asukaminato0721/IntWithStepsOfTeXForm)
@@ -17,7 +18,6 @@ Some maybe useful projects:
 </details>
 
 
-<!--
 Here are some ideas to get you started:
 
 - 🌱 I am currently looking for job.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💬 Ask me about GeoGebra
--->
+
 
 🌟 **My Skills**  
 
@@ -64,6 +64,6 @@ Currently playing with https://editor.p5js.org/AsukaMinato/sketches
 <!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/asukaminato0721/count.svg" />
-</p> -->
+</p> 
 
 The aur package I maintained: https://aur.archlinux.org/packages?K=AsukaMinato&SeB=m&O=0&SB=v&SO=d
