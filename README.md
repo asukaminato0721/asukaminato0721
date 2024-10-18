@@ -53,6 +53,10 @@ Language ![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&l
 <!--
 -->
 
+
+
+<details><summary>some draws</summary>
+
 Currently playing with https://editor.p5js.org/AsukaMinato/sketches
 ||||||||
 |-|-|-|-|-|-|-|
@@ -60,6 +64,8 @@ Currently playing with https://editor.p5js.org/AsukaMinato/sketches
 |https://editor.p5js.org/AsukaMinato/full/u1A4W1dDi|https://editor.p5js.org/AsukaMinato/full/5VOWIkeNt|https://editor.p5js.org/AsukaMinato/full/hMPzl5SYW||||
 |![image](https://user-images.githubusercontent.com/30024051/227753060-d9db53e7-7516-4ca9-b96c-25c5abbf1309.png)| ![[image](https://editor.p5js.org/AsukaMinato/full/bH_LRJpdp)](https://user-images.githubusercontent.com/30024051/208925839-7ea8fa01-6b19-44c7-a277-f875bc9c18e9.png) | ![image](https://user-images.githubusercontent.com/30024051/208926845-8bd30945-aea6-48d5-9750-5e7cec318e1a.png) |  ![image](https://user-images.githubusercontent.com/30024051/208927651-28245c85-b092-461a-9976-f68d64c3c418.png) | ![image](https://user-images.githubusercontent.com/30024051/208927971-a3d9a1df-f100-46c8-82d2-2d5bba1cefba.png)|
 |https://editor.p5js.org/AsukaMinato/full/wqmOaXM7N|      https://editor.p5js.org/AsukaMinato/full/bH_LRJpdp                 |                      https://editor.p5js.org/AsukaMinato/full/EQl9Z4QG4            |  https://editor.p5js.org/AsukaMinato/full/vDg-xtCcF   |https://editor.p5js.org/AsukaMinato/full/WaGzOmWxc|
+
+</details>
 
 <!-- <p align="center"> 
   Visitor count<br>
