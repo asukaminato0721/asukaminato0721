@@ -58,6 +58,13 @@ Language ![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&l
 <details><summary>some draws</summary>
 
 Currently playing with https://editor.p5js.org/AsukaMinato/sketches
+
+| | | | |
+|-|-|-|-|
+|![image](https://github.com/user-attachments/assets/1c9c168c-41f6-44f8-9f04-4b658b444e36)|![image](https://github.com/user-attachments/assets/16109146-0f41-4c5b-b0ec-025259b7660b) | ![6 SDOR@_SX3H13@}E3$WB9D](https://github.com/user-attachments/assets/b5f3ea3a-54c5-4ecb-b897-ed220a4aea6e)  | |
+|https://editor.p5js.org/AsukaMinato/full/6-UtbDpor| https://editor.p5js.org/AsukaMinato/full/aVIj5_UCq | https://editor.p5js.org/AsukaMinato/full/H58elev_9 | | |
+
+
 ||||||||
 |-|-|-|-|-|-|-|
 ![image](https://github.com/asukaminato0721/asukaminato0721/assets/30024051/ecca0ced-2f84-4a46-ad98-1db1e684cf0a)|![image](https://github.com/asukaminato0721/asukaminato0721/assets/30024051/e7e1af0f-8216-4fcc-96e9-ea81c21f10d1)|![image](https://github.com/asukaminato0721/asukaminato0721/assets/30024051/340b85c8-9a48-4c75-95cd-f32318d58dcb)|
