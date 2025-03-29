@@ -55,7 +55,7 @@ Language ![](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&l
 
 
 
-<details><summary>some draws</summary>
+<details><summary>some drawings</summary>
 
 Currently playing with <https://editor.p5js.org/AsukaMinato/sketches> and <https://www.shadertoy.com/user/asuka_minato>
 
